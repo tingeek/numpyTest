@@ -1,2 +1,3 @@
 # numpyTest
-testing the numpy library
+this repo is for testing the numpy library
+
